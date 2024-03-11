@@ -2,4 +2,6 @@
 or
 git config user.email srivalli2406@gmail.com<mail of the git hub account>
 2.git commit
-3.git add
+3.git add <file>
+4.git commit -m "<somrtext>"
+5.git push or pull origin to main
