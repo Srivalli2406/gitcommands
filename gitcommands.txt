@@ -6,3 +6,4 @@ git config user.email srivalli2406@gmail.com<mail of the git hub account>
 4.git commit -m "<sometext>"
 5.git push or pull origin to main
 6.my files
+7.sum(3+8)=12
